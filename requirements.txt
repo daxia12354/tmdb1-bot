@@ -1,0 +1,2 @@
+# 本机器人只用 Python 标准库，无需第三方包。
+# 这个空文件是给 Railway / Nixpacks 识别 Python 项目用的。
